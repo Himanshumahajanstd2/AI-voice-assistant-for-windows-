@@ -1,6 +1,5 @@
 '''
 Project: Python Based AI Voice Assistant
-@author: Himanshu Pratap Mahajan 
 '''
 try: 
     import pyttsx3
